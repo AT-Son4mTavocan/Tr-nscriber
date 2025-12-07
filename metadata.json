@@ -1,0 +1,7 @@
+{
+  "name": "Tr@nscriber",
+  "description": "A powerful audio transcription tool powered by Gemini 2.5 Flash. Convert speech to text efficiently using your microphone or audio files.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
